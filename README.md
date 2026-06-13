@@ -11,4 +11,4 @@ npm start
 
 ## API Keys
 
-You will need to add your Google Maps API key in the Map.js component. If you deploy, please move the keys to a safe place (see .env.example).
+You will need to add your Google Maps API key in the Map.js component. Additionally, see .env.example.
