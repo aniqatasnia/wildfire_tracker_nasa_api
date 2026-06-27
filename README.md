@@ -1,7 +1,7 @@
 # Wildfire Tracker
 
 > This is a React app to track wildfires and plot them on a Google map.  
-> To view a demo of this project, go to https://aniqatasnia-demo-wildfire-tracker.netlify.app/ *Note: Dismiss the browser popup by clicking "OK".*
+> To view a demo of this project, go to https://aniqatasnia-demo-wildfire-tracker.netlify.app/ *Note: Please dismiss the browser popup by clicking "OK".*
 
 ## Usage
 
